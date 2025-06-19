@@ -58,5 +58,3 @@ Each entry includes either:
 - **Macro F1-score:** `0.37`
 - ✅ Improved prediction for rare genres (e.g., `biography`, `romance`, `sci-fi`)
 - ❌ Slight drop in overall accuracy due to fairer genre distribution
-
-#### 📊 Sample Prediction Output:
