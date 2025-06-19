@@ -1,62 +1,90 @@
-# CODSOFT - Task 1: Movie Genre Prediction using Machine Learning
+# 🏆 CodSoft Internship - June 2025 (Batch B34)
 
-## 📌 Internship: CodSoft (June Batch B34)
-This repository contains the implementation of **Task 1** for the **Python Programming Internship** at CodSoft. The task involves predicting the genre of a movie based on its plot description using Natural Language Processing (NLP) and Machine Learning.
-
----
-
-## 🎯 Project Title
-**Movie Genre Prediction using Logistic Regression and TF-IDF**
+Welcome to my **CodSoft Internship Repository**!  
+This repository contains all the tasks completed as part of the **Machine Learning Internship** offered by [CodSoft](https://www.codsoft.in/).
 
 ---
 
-## 📝 Objective
-Build a multi-class classification model that predicts the **genre** of a movie based on its **description**. This project involves:
-- Reading and cleaning data
-- Text preprocessing
-- Feature extraction using TF-IDF
-- Model training using Logistic Regression
-- Evaluation with accuracy and F1-score
+## 📌 Internship Details
+
+- **Organization:** CodSoft
+- **Internship Title:** Python Programming Internship
+- **Batch:** June 2025 (B34)
+- **Duration:** 15th June 2025 – 15th July 2025
+- **Mode:** Remote / Online
+- **Platform:** GitHub + LinkedIn + Google Forms
 
 ---
 
-## 🧠 Dataset Overview
+## 🧑‍💻 About the Internship
 
-### ✅ `train_data.txt`
-
-
-Each entry includes either:
-- Training data with labels (genres)
-- Test data without genre (used for prediction)
-- Ground truth labels for test data (for evaluation)
+The CodSoft internship program offered practical, hands-on project tasks aimed at enhancing programming and problem-solving skills in Python. Interns were required to complete 3–5 real-world tasks independently, submit them via GitHub and Google Forms, and actively showcase their progress on LinkedIn.
 
 ---
 
-## 🔧 Technologies Used
-- Python 3
-- Pandas
-- Scikit-learn
-- TF-IDF Vectorizer
-- Logistic Regression
+## 🛠️ Technologies & Skills Used
+
+- **Python 3**
+- **Machine Learning (Logistic Regression, Scikit-learn)**
+- **Natural Language Processing**
+- **Pandas & NumPy**
+- **TF-IDF Vectorization**
+- **Data Analysis & Evaluation Metrics**
+- **Git & GitHub**
+- **Professional Reporting and Documentation**
 
 ---
 
-## 🚀 Features
-- Handles **imbalanced classes** using `class_weight='balanced'`
-- Uses **TF-IDF** for converting text to numerical vectors
-- Accepts **custom user input** to predict movie genre
-- Prints evaluation metrics including:
-  - Accuracy
-  - Precision, Recall, F1-Score
-- Displays **sample predictions**
+## ✅ Tasks Completed
+
+| Task No. | Task Title                        | Description                                     | Status |
+|----------|-----------------------------------|-------------------------------------------------|--------|
+| Task 1   | Movie Genre Prediction using ML   | NLP-based genre classifier using TF-IDF + ML    | ✅ Done |
+
+> 📁 Each task has its own folder inside this repository containing:
+> - Python source code
+> - Dataset
+> - Screenshots
+> - Task-specific README
 
 ---
 
-## 📈 Results (After Class Balancing)
+## 🔗 Important Links
 
-- **Accuracy:** `~49.5%`
-- **Macro F1-score:** `0.37`
-- ✅ Improved prediction for rare genres (e.g., `biography`, `romance`, `sci-fi`)
-- ❌ Slight drop in overall accuracy due to fairer genre distribution
+- 🎓 [CodSoft Website](https://www.codsoft.in/)
+- 🔗 [CodSoft LinkedIn](https://www.linkedin.com/company/codsoft/)
 
-#### 📊 Sample Prediction Output:
+---
+
+## 📸 LinkedIn Activity
+
+As part of the internship, each task is to be:
+- Posted on [LinkedIn](https://www.linkedin.com/)
+- Tagged with **@CodSoft**
+- Hashtag used: **#codsoft**
+- Video demonstration + GitHub repo link
+
+> 🔗 [My LinkedIn Profile](https://linkedin.com/in/riyalsubash)
+
+---
+
+## 🏁 Conclusion
+
+This internship was a great opportunity to:
+- Work on real-world Python projects
+- Improve my ML and NLP understanding
+- Collaborate and communicate professionally
+- Build a strong online presence through GitHub & LinkedIn
+
+> I'm grateful to **CodSoft** for this valuable learning experience.
+
+---
+
+## 👤 Author
+
+- **Name:** Subash  
+- **GitHub:** [@riyalsubash](https://github.com/riyalsubash)  
+- **Email:** iamsubash2006@gmail.com
+- **Batch:** June 2025 B34  
+- **LinkedIn:** [linkedin.com/in/riyalsubash](https://linkedin.com/in/riyalsubash)
+
